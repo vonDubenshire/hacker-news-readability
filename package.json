@@ -1,0 +1,17 @@
+{
+  "name": "hacker-news-readability",
+  "version": "0.1.0",
+  "private": true,
+  "type": "module",
+  "description": "A restrained readability userscript for Hacker News.",
+  "scripts": {
+    "test": "node --test"
+  },
+  "devDependencies": {
+    "jsdom": "^27.0.0"
+  },
+  "engines": {
+    "node": ">=20"
+  },
+  "license": "MIT"
+}
